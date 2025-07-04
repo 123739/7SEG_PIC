@@ -15,6 +15,6 @@ This project demonstrates how to interface a 7-segment display with the PIC18F45
 - Embedded C programming for PIC
 
 ## Project Structure
-├── main.c (Source code)
-├── circuit-diagram.png (Circuit simulation)
-├── simulation-files/ (Proteus file)
+├── 7SEG.c (Source code in MPLAB X)
+├── 7SEG_PIC_simulation.mp4 (Circuit simulation)
+├── 7SEG_PIC.pdsprj (Proteus file)
